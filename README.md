@@ -8,7 +8,7 @@
   
 ## project 2
   - project2. py
-  PCA scratch
+  - PCA scratch
   
 ## Project3
 
